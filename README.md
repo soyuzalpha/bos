@@ -1,3 +1,14 @@
+```
+ ____   ___   _____
+|  _ \ / _ \ / ____|
+| |_) | | | | (___  
+|  _ <| | | |\___ \ 
+| |_) | |_| |____) |
+|____/ \___/|_____/ 
+                    
+✨ Backend & Frontend Magic ✨
+```
+
 # BOS - Backend & Frontend Project
 
 A full-stack web application built with a modern tech stack featuring a **NestJS backend** and a **Next.js frontend**.
@@ -31,11 +42,11 @@ The repository is primarily written in TypeScript (75.4%), with JavaScript (18.4
 
 ```
 bos/
-├── backend/          # NestJS application
+├── backend/          # 🔧 NestJS application
 │   ├── src/
 │   ├── test/
 │   └── package.json
-├── frontend/         # Next.js application
+├── frontend/         # 🎨 Next.js application
 │   ├── src/
 │   ├── public/
 │   └── package.json
@@ -139,3 +150,7 @@ For issues or questions, please open an issue in the repository.
 ---
 
 **Last Updated**: June 2026
+
+```
+Made with ❤️ & ☕
+```
